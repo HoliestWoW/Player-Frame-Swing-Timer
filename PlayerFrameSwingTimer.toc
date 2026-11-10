@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: PlayerFrame Swing Timer
+## Notes: Curved PlayerFrame-hugging melee, dual-wield, ranged, and wand swing timer for WoW Forever 1.60.1.70888
+## Author: HoliestWoW
+## Version: 1.0.0
+## SavedVariablesPerCharacter: PFST_Settings
+
+PlayerFrameSwingTimer.lua
